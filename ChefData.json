@@ -1,65 +1,304 @@
 [
     {
         "id": 1,
-        "recipe_number": 1,
+        "recipe_number": 6,
         "likes": 25,
         "name": "Rahima Begum",
         "location": "Rajshahi, Bangladesh",
         "experience": "12 year",
         "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
-        "ingredients": [
-            "500g prawns",
-            "1 onion, chopped",
-            "2 garlic cloves, minced",
-            "1 inch ginger, grated",
-            "1 green chilli, chopped",
-            "1 tsp turmeric powder",
-            "1 tsp cumin powder",
-            "1 tsp coriander powder",
-            "1 tsp garam masala",
-            "1 can of coconut milk",
-            "1 tbsp oil",
-            "Salt to taste"
-        ],
-        "steps": [
-            "Heat oil in a pan and fry onions till golden brown.",
-            "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
-            "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
-            "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
-            "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
-            "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
-            "Garnish with fresh coriander leaves and serve hot with rice or naan."
-        ],
-        "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+        "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48=",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai)",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 25,
+                "name": "Beef Curry (Gosht Bhuna)",
+                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
+                "ingredients": [
+                    "2 lbs. beef chuck, cut into cubes",
+                    "1/4 cup vegetable oil",
+                    "3 onions, chopped",
+                    "3 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "2 tomatoes, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1 tsp. garam masala",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onions, garlic, and ginger and sauté until softened.",
+                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
+                    "Add beef and cook until browned on all sides, about 5 minutes.",
+                    "Add enough water to cover beef and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ]
+            },
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            }
+        ]
     },
     {
         "id": 2,
-        "recipe_number": 2,
+        "recipe_number": 4,
         "likes": 20,
         "name": "Salma Islam",
         "location": "Rajshahi, Bangladesh",
         "experience": "8 year",
         "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
-        "ingredients": [
-            "500g Hilsa fish",
-            "2 tbsp mustard paste",
-            "2 green chillies, chopped",
-            "1 tsp turmeric powder",
-            "1 tsp red chilli powder",
-            "1 tsp salt",
-            "1/2 cup mustard oil"
-        ],
-        "steps": [
-            "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
-            "Marinate the Hilsa fish with the paste for 30 minutes.",
-            "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
-            "Take out the fish from the pan and keep aside.",
-            "Add the remaining mustard paste to the pan and fry for 2 minutes.",
-            "Add water to make the gravy and simmer for 5 minutes.",
-            "Add the fried fish to the gravy and cook for another 5 minutes.",
-            "Serve hot with steamed rice."
-        ],
-        "image": "https://thumbs.dreamstime.com/b/female-chef-kitchen-professional-industrial-95238993.jpg"
+        "image": "https://thumbs.dreamstime.com/b/female-chef-kitchen-professional-industrial-95238993.jpg",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai)",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 25,
+                "name": "Beef Curry (Gosht Bhuna)",
+                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
+                "ingredients": [
+                    "2 lbs. beef chuck, cut into cubes",
+                    "1/4 cup vegetable oil",
+                    "3 onions, chopped",
+                    "3 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "2 tomatoes, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1 tsp. garam masala",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onions, garlic, and ginger and sauté until softened.",
+                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
+                    "Add beef and cook until browned on all sides, about 5 minutes.",
+                    "Add enough water to cover beef and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            }
+        ]
     },
     {
         "id": 3,
@@ -69,30 +308,91 @@
         "location": "Rajshahi, Bangladesh",
         "experience": "10 year",
         "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
-        "ingredients": [
-            "1 lb. large shrimp, peeled and deveined",
-            "1 tbsp. vegetable oil",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "1 tbsp. grated fresh ginger",
-            "1 green chili pepper, seeded and minced",
-            "1 tsp. turmeric",
-            "1 tsp. cumin",
-            "1 tsp. coriander",
-            "1 tsp. garam masala",
-            "1 can coconut milk",
-            "Salt and pepper to taste"
-        ],
-        "steps": [
-            "Heat oil in a large saucepan over medium heat.",
-            "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
-            "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
-            "Add shrimp and cook until pink, about 3-5 minutes.",
-            "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
-            "Season with salt and pepper to taste.",
-            "Serve hot with rice."
-        ],
-        "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+        "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E=",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai)",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            }
+        ]
     },
     {
         "id": 4,
@@ -102,30 +402,120 @@
         "location": "Rajshahi, Bangladesh",
         "experience": "11 year",
         "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
-        "ingredients": [
-            "1 lb. large shrimp, peeled and deveined",
-            "1 tbsp. vegetable oil",
-            "1 onion, chopped",
-            "2 cloves garlic, minced",
-            "1 tbsp. grated fresh ginger",
-            "1 green chili pepper, seeded and minced",
-            "1 tsp. turmeric",
-            "1 tsp. cumin",
-            "1 tsp. coriander",
-            "1 tsp. garam masala",
-            "1 can coconut milk",
-            "Salt and pepper to taste"
-        ],
-        "steps": [
-            "Heat oil in a large saucepan over medium heat.",
-            "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
-            "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
-            "Add shrimp and cook until pink, about 3-5 minutes.",
-            "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
-            "Season with salt and pepper to taste.",
-            "Serve hot with rice."
-        ],
-        "image": "https://thumbs.dreamstime.com/b/smiling-chef-cooking-food-restaurant-kitchen-smiling-chef-cooking-food-restaurant-kitchen-african-male-cook-standing-103450486.jpg"
+        "image": "https://thumbs.dreamstime.com/b/smiling-chef-cooking-food-restaurant-kitchen-smiling-chef-cooking-food-restaurant-kitchen-african-male-cook-standing-103450486.jpg",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai)",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 25,
+                "name": "Beef Curry (Gosht Bhuna)",
+                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
+                "ingredients": [
+                    "2 lbs. beef chuck, cut into cubes",
+                    "1/4 cup vegetable oil",
+                    "3 onions, chopped",
+                    "3 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "2 tomatoes, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1 tsp. garam masala",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onions, garlic, and ginger and sauté until softened.",
+                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
+                    "Add beef and cook until browned on all sides, about 5 minutes.",
+                    "Add enough water to cover beef and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ]
+            }
+        ]
     },
     {
         "id": 5,
@@ -135,30 +525,150 @@
         "location": "Rajshahi, Bangladesh",
         "experience": "9 year",
         "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
-        "ingredients": [
-            "500g prawns",
-            "1 onion, chopped",
-            "2 garlic cloves, minced",
-            "1 inch ginger, grated",
-            "1 green chilli, chopped",
-            "1 tsp turmeric powder",
-            "1 tsp cumin powder",
-            "1 tsp coriander powder",
-            "1 tsp garam masala",
-            "1 can of coconut milk",
-            "1 tbsp oil",
-            "Salt to taste"
-        ],
-        "steps": [
-            "Heat oil in a pan and fry onions till golden brown.",
-            "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
-            "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
-            "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
-            "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
-            "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
-            "Garnish with fresh coriander leaves and serve hot with rice or naan."
-        ],
-        "image": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg"
+        "image": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://www.thespruceeats.com/thmb/a9kftr-juIcoIgARLXdh1EsnFKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-prawn-curry-1957454-hero-01-9e15ed0ddd334cf4a03533f0b72919b9.jpg"
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image":"https://img-global.cpcdn.com/recipes/43c47858c7446283/680x482cq70/shorshe-ilish-aka-steamed-hilsa-in-mustard-sauce-recipe-main-photo.jpg"
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai )",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnTCtncNM4wX8HDes_K-pSdkAThMnTV-apg&usqp=CAU"
+            },
+            {
+                "likes": 25,
+                "name": "Beef Curry (Gosht Bhuna)",
+                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
+                "ingredients": [
+                    "2 lbs. beef chuck, cut into cubes",
+                    "1/4 cup vegetable oil",
+                    "3 onions, chopped",
+                    "3 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "2 tomatoes, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1 tsp. garam masala",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onions, garlic, and ginger and sauté until softened.",
+                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
+                    "Add beef and cook until browned on all sides, about 5 minutes.",
+                    "Add enough water to cover beef and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://nishkitchen.com/wp-content/uploads/2019/04/Indian-Beef-Curry-1B-480x360.jpg"
+            },
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnTCtncNM4wX8HDes_K-pSdkAThMnTV-apg&usqp=CAU"
+            }
+        ]
     },
     {
         "id": 6,
@@ -168,25 +678,173 @@
         "location": "Rajshahi, Bangladesh",
         "experience": "6 year",
         "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
-        "ingredients": [
-            "500g Hilsa fish",
-            "2 tbsp mustard paste",
-            "2 green chillies, chopped",
-            "1 tsp turmeric powder",
-            "1 tsp red chilli powder",
-            "1 tsp salt",
-            "1/2 cup mustard oil"
-        ],
-        "steps": [
-            "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
-            "Marinate the Hilsa fish with the paste for 30 minutes.",
-            "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
-            "Take out the fish from the pan and keep aside.",
-            "Add the remaining mustard paste to the pan and fry for 2 minutes.",
-            "Add water to make the gravy and simmer for 5 minutes.",
-            "Add the fried fish to the gravy and cook for another 5 minutes.",
-            "Serve hot with steamed rice."
-        ],
-        "image": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=612x612&w=0&k=20&c=96kg8oMcQ1VlItWhwRI69aAO_CWiZjHvNuvNYPiE59M="
+        "image": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=612x612&w=0&k=20&c=96kg8oMcQ1VlItWhwRI69aAO_CWiZjHvNuvNYPiE59M=",
+        "recipe": [
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1391235023/photo/portrait-of-black-female-chef-in-action-uses-pan-to-cook-delicious-traditional-authentic-food.jpg?b=1&s=170667a&w=0&k=20&c=8ybNiKpBrIl8IFrbs5W_jq9SGpIJ-PfsGE3W8CbfP48="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "name": "Shrimp Curry (Chingri Malai Curry)",
+                "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
+                "ingredients": [
+                    "1 lb. large shrimp, peeled and deveined",
+                    "1 tbsp. vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "1 green chili pepper, seeded and minced",
+                    "1 tsp. turmeric",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. garam masala",
+                    "1 can coconut milk",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onion, garlic, ginger, and chili pepper and sauté until softened.",
+                    "Add turmeric, cumin, coriander, and garam masala and cook for 1 minute.",
+                    "Add shrimp and cook until pink, about 3-5 minutes.",
+                    "Stir in coconut milk and simmer for 10 minutes, stirring occasionally.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 25,
+                "name": "Beef Curry (Gosht Bhuna)",
+                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
+                "ingredients": [
+                    "2 lbs. beef chuck, cut into cubes",
+                    "1/4 cup vegetable oil",
+                    "3 onions, chopped",
+                    "3 cloves garlic, minced",
+                    "1 tbsp. grated fresh ginger",
+                    "2 tomatoes, chopped",
+                    "1 tsp. cumin",
+                    "1 tsp. coriander",
+                    "1 tsp. turmeric",
+                    "1 tsp. garam masala",
+                    "1/2 tsp. cayenne pepper",
+                    "Salt and pepper to taste"
+                ],
+                "steps": [
+                    "Heat oil in a large saucepan over medium heat.",
+                    "Add onions, garlic, and ginger and sauté until softened.",
+                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
+                    "Add beef and cook until browned on all sides, about 5 minutes.",
+                    "Add enough water to cover beef and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
+                    "Season with salt and pepper to taste.",
+                    "Serve hot with rice."
+                ]
+            },
+            {
+                "likes": 25,
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            },
+            {
+                "likes": 20,
+                "name": "Shorshe Ilish",
+                "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
+                "ingredients": [
+                    "500g Hilsa fish",
+                    "2 tbsp mustard paste",
+                    "2 green chillies, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil"
+                ],
+                "steps": [
+                    "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
+                    "Marinate the Hilsa fish with the paste for 30 minutes.",
+                    "Heat mustard oil in a pan and fry the fish on both sides till golden brown.",
+                    "Take out the fish from the pan and keep aside.",
+                    "Add the remaining mustard paste to the pan and fry for 2 minutes.",
+                    "Add water to make the gravy and simmer for 5 minutes.",
+                    "Add the fried fish to the gravy and cook for another 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "image": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=2048x2048&w=is&k=20&c=WKSUsygKLsXuiMz2XN8WrWJ7QiQ2cDz8YNY3Png_Z3E="
+            }
+        ]
     }
 ]
