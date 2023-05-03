@@ -12,6 +12,10 @@
            
             {
                 "likes": 20,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -21,7 +25,12 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
-                    "1/2 cup mustard oil"
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp salt"
                 ],
                 "steps": [
                     "Mix the mustard paste with turmeric, red chilli powder, salt and green chillies. Add a little water to make a thick paste.",
@@ -37,6 +46,10 @@
             },
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.8,
+                    "badge": "Excellent"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -66,6 +79,10 @@
             },
             {
                 "name": "Shrimp Curry (Chingri Malai)",
+                "rating": {
+                    "number": 4.3,
+                    "badge": "Good"
+                },
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
                     "1 lb. large shrimp, peeled and deveined",
@@ -95,6 +112,10 @@
             {
                 "likes": 25,
                 "name": "Beef Curry (Gosht Bhuna)",
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
                 "ingredients": [
                     "2 lbs. beef chuck, cut into cubes",
@@ -136,6 +157,10 @@
         "recipe": [
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.6,
+                    "badge": "Excellent"
+                },
                 "name": "Beef Curry (Gosht Bhuna)",
                 "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
                 "ingredients": [
@@ -166,6 +191,10 @@
             },
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.4,
+                    "badge": "Good"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -195,6 +224,10 @@
             },
             {
                 "likes": 20,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -204,6 +237,11 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
                     "1/2 cup mustard oil"
                 ],
                 "steps": [
@@ -219,6 +257,11 @@
                 "image": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1"
             },
             {
+                "likes": 20,
+                "rating": {
+                    "number": 4.7,
+                    "badge": "Excellent"
+                },
                 "name": "Shrimp Curry (Chingri Malai)",
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
@@ -261,6 +304,10 @@
         "recipe": [
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.4,
+                    "badge": "Excellent"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -290,6 +337,10 @@
             },
             {
                 "likes": 20,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -299,6 +350,11 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
                     "1/2 cup mustard oil"
                 ],
                 "steps": [
@@ -314,6 +370,11 @@
                 "image": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1"
             },
             {
+                "likes": 20,
+                "rating": {
+                    "number": 4.6,
+                    "badge": "Excellent"
+                },
                 "name": "Shrimp Curry (Chingri Malai)",
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
@@ -340,36 +401,6 @@
                     "Serve hot with rice."
                 ],
                 "image": "https://www.allrecipes.com/thmb/9rsfnXzeDI9L4lesKKNmcwioDic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/93597-authentic-and-easy-shrimp-curry-DDMFS-4x3-1-13e45ac2f0344418bcb41d8ecb979d41.jpg"
-            },
-            {
-                "likes": 25,
-                "name": "Beef Curry (Gosht Bhuna)",
-                "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
-                "ingredients": [
-                    "2 lbs. beef chuck, cut into cubes",
-                    "1/4 cup vegetable oil",
-                    "3 onions, chopped",
-                    "3 cloves garlic, minced",
-                    "1 tbsp. grated fresh ginger",
-                    "2 tomatoes, chopped",
-                    "1 tsp. cumin",
-                    "1 tsp. coriander",
-                    "1 tsp. turmeric",
-                    "1 tsp. garam masala",
-                    "1/2 tsp. cayenne pepper",
-                    "Salt and pepper to taste"
-                ],
-                "steps": [
-                    "Heat oil in a large saucepan over medium heat.",
-                    "Add onions, garlic, and ginger and sauté until softened.",
-                    "Add tomatoes, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 5 minutes.",
-                    "Add beef and cook until browned on all sides, about 5 minutes.",
-                    "Add enough water to cover beef and bring to a boil.",
-                    "Reduce heat to low, cover, and simmer for 2 hours or until beef is tender.",
-                    "Season with salt and pepper to taste.",
-                    "Serve hot with rice."
-                ],
-                "image": "https://dwellbymichelle.com/wp-content/uploads/2021/02/DWELL-Kerala-Beef-Curry.jpg"
             }
         ]
     },
@@ -385,6 +416,10 @@
         "recipe": [
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -413,7 +448,11 @@
                 "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg"
             },
             {
-                "likes": 20,
+                "likes": 25,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -423,6 +462,11 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
                     "1/2 cup mustard oil"
                 ],
                 "steps": [
@@ -438,6 +482,11 @@
                 "image": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1"
             },
             {
+                "likes": 23,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shrimp Curry (Chingri Malai)",
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
@@ -467,6 +516,10 @@
             },
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.8,
+                    "badge": "Excellent"
+                },
                 "name": "Beef Curry (Gosht Bhuna)",
                 "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
                 "ingredients": [
@@ -509,6 +562,10 @@
         "recipe": [
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -538,6 +595,10 @@
             },
             {
                 "likes": 20,
+                "rating": {
+                    "number": 4.6,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -547,6 +608,11 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
                     "1/2 cup mustard oil"
                 ],
                 "steps": [
@@ -562,6 +628,11 @@
                 "image":"https://img-global.cpcdn.com/recipes/43c47858c7446283/680x482cq70/shorshe-ilish-aka-steamed-hilsa-in-mustard-sauce-recipe-main-photo.jpg"
             },
             {
+                "likes": 21,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shrimp Curry (Chingri Malai )",
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
@@ -590,7 +661,11 @@
                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnTCtncNM4wX8HDes_K-pSdkAThMnTV-apg&usqp=CAU"
             },
             {
-                "likes": 25,
+                "likes": 24,
+                "rating": {
+                    "number": 4.6,
+                    "badge": "Excellent"
+                },
                 "name": "Beef Curry (Gosht Bhuna)",
                 "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
                 "ingredients": [
@@ -620,7 +695,11 @@
                 "image": "https://nishkitchen.com/wp-content/uploads/2019/04/Indian-Beef-Curry-1B-480x360.jpg"
             },
             {
-                "likes": 25,
+                "likes": 18,
+                "rating": {
+                    "number": 4.3,
+                    "badge": "Good"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -662,6 +741,10 @@
         "recipe": [
             {
                 "likes": 25,
+                "rating": {
+                    "number": 4.3,
+                    "badge": "Good"
+                },
                 "name": "Chingri Malai Curry",
                 "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
                 "ingredients": [
@@ -691,6 +774,10 @@
             },
             {
                 "likes": 20,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Shorshe Ilish",
                 "description": "A spicy and tangy dish made with Hilsa fish and mustard paste",
                 "ingredients": [
@@ -700,6 +787,11 @@
                     "1 tsp turmeric powder",
                     "1 tsp red chilli powder",
                     "1 tsp salt",
+                    "1/2 cup mustard oil",
+                    "1 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp salt",
+                    "1/2 cup mustard oil",
                     "1/2 cup mustard oil"
                 ],
                 "steps": [
@@ -715,6 +807,11 @@
                 "image": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1"
             },
             {
+                "likes": 29,
+                "rating": {
+                    "number": 4.8,
+                    "badge": "Excellent"
+                },
                 "name": "Shrimp Curry (Chingri Malai)",
                 "description": "A classic Bangladeshi dish made with shrimp, coconut milk, and spices.",
                 "ingredients": [
@@ -743,7 +840,11 @@
                 "image": "https://www.allrecipes.com/thmb/9rsfnXzeDI9L4lesKKNmcwioDic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/93597-authentic-and-easy-shrimp-curry-DDMFS-4x3-1-13e45ac2f0344418bcb41d8ecb979d41.jpg"
             },
             {
-                "likes": 25,
+                "likes": 23,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
                 "name": "Beef Curry (Gosht Bhuna)",
                 "description": "A hearty and flavorful Bangladeshi beef curry made with onions, tomatoes, and a variety of spices.",
                 "ingredients": [
@@ -771,6 +872,72 @@
                     "Serve hot with rice."
                 ],
                 "image": "https://dwellbymichelle.com/wp-content/uploads/2021/02/DWELL-Kerala-Beef-Curry.jpg"
+            },
+            {
+                "likes": 25,
+                "rating": {
+                    "number": 4.5,
+                    "badge": "Excellent"
+                },
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://www.allrecipes.com/thmb/9rsfnXzeDI9L4lesKKNmcwioDic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/93597-authentic-and-easy-shrimp-curry-DDMFS-4x3-1-13e45ac2f0344418bcb41d8ecb979d41.jpg"
+            },
+            {
+                "likes": 25,
+                "rating": {
+                    "number": 3,
+                    "badge": "Excellent"
+                },
+                "name": "Chingri Malai Curry",
+                "description": "A creamy and spicy curry made with prawns, coconut milk, and spices",
+                "ingredients": [
+                    "500g prawns",
+                    "1 onion, chopped",
+                    "2 garlic cloves, minced",
+                    "1 inch ginger, grated",
+                    "1 green chilli, chopped",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 can of coconut milk",
+                    "1 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil in a pan and fry onions till golden brown.",
+                    "Add garlic, ginger, and green chilli. Fry for 1-2 minutes.",
+                    "Add prawns and fry till it turns pink. Take out the prawns and keep them aside.",
+                    "Add turmeric, cumin, coriander, and garam masala. Fry for 2 minutes.",
+                    "Add coconut milk and simmer for 5 minutes. Add salt to taste.",
+                    "Add prawns and cook for 2-3 minutes or until prawns are cooked through.",
+                    "Garnish with fresh coriander leaves and serve hot with rice or naan."
+                ],
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBqls6F1lv8Kpm16YQG1NcX4h38fCTdariA&usqp=CAU"
             }
         ]
     }
